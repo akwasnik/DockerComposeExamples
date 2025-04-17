@@ -1,4 +1,4 @@
-# Full Stack Docker Compose Project
+# DOCKER COMPOSE EXAMPLE APPS
 
 This repository contains three applications, each using Docker Compose to run services. These applications are simple and serve as a learning tool for Docker, Node.js, Flask, Redis, PostgreSQL, and full-stack development.
 
