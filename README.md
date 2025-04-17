@@ -1,8 +1,3 @@
-Always show details
-
-Copy
-# Creating the README.md content based on the previous message
-readme_content = """
 # Full Stack Docker Compose Project
 
 This repository contains three applications, each using Docker Compose to run services. These applications are simple and serve as a learning tool for Docker, Node.js, Flask, Redis, PostgreSQL, and full-stack development.
