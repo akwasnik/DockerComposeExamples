@@ -68,13 +68,13 @@ A full-stack application using Docker Compose to connect a client, server, Redis
 
 Here is a screenshot of the client interface:
 
-```[Insert Client Screenshot Here]```
+![Client Screenshot](clientScreenshot.png)
 
 #### Docker Desktop View:
 
 Here is how the application looks in Docker Desktop:
 
-```[Insert Docker Desktop Screenshot Here]```
+![Docker Desktop Screenshot](dockerScreenshot.png)
 
 ## Docker Compose Configuration
 
